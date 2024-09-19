@@ -1,0 +1,29 @@
+.contact-details{
+    color:rgb(146,146,146)
+}
+.details:hover{
+    cursor: pointer;
+    color: white;
+    cursor:pointer;
+}
+.footer-contents{
+    display: flex;
+    font-size: small;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-decoration: none;
+    list-style-type: none;
+    gap: 15px;
+}
+.footer-points{
+    color: gray;
+    text-decoration: none;
+}
+.footer-points:hover{
+    color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.navbar-contents:hover{
+    text-decoration: underline;
+}
